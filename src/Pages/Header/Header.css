@@ -1,0 +1,32 @@
+.header {
+    height: 10vh;
+}
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.btns {
+    width: 15%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.btn1 {
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(210, 75, 236);
+    font-size: 17px;
+    font-weight: bold;
+    width: 45%;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+}
+.btns .btn1:hover {
+    background-color: rgb(77, 18, 88);
+    color: white;
+    border-color: white;
+}

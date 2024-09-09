@@ -1,0 +1,55 @@
+.form{
+    height: 90vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(#5f0558, #b41fa8);
+
+}
+.form form {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 40%;
+    height: 70vh;
+    box-shadow: 3px 3px 10px 10px rgb(210, 75, 236);
+    padding: 3%;
+    border-radius: 15px;
+    font-weight: bold;
+    background-image: url('../../Assets/Pictures/picture2.png');
+    background-size: cover;
+    color: white;
+}
+.form form input {
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.form form input:hover {
+    background-color: rgb(235, 195, 236);
+    border: 2px solid rgb(77, 18, 88);
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn button {
+    width: 20%;
+    padding: 7px;
+    border-radius: 10px;
+    background-color: rgb(210, 75, 236);
+    font-size: 17px;
+    font-weight: bold;
+}
+.btn button:hover {
+    background-color: rgb(77, 18, 88);
+    color: white;
+    border-color: white;
+}
+.error {
+    color: red;
+    font-size: 12px;
+}
