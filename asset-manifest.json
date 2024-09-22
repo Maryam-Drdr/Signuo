@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Signuo/static/css/main.559a4b44.css",
+    "main.js": "/Signuo/static/js/main.615ce777.js",
+    "static/js/453.74fe6b52.chunk.js": "/Signuo/static/js/453.74fe6b52.chunk.js",
+    "static/media/picture2.png": "/Signuo/static/media/picture2.140e474c4e01f551dc0c.png",
+    "index.html": "/Signuo/index.html",
+    "main.559a4b44.css.map": "/Signuo/static/css/main.559a4b44.css.map",
+    "main.615ce777.js.map": "/Signuo/static/js/main.615ce777.js.map",
+    "453.74fe6b52.chunk.js.map": "/Signuo/static/js/453.74fe6b52.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.559a4b44.css",
+    "static/js/main.615ce777.js"
+  ]
+}
